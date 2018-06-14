@@ -1,0 +1,15 @@
+{
+  "name": "render-props-opener",
+  "version": "0.0.1",
+  "description": "Render Props Callback Heaven",
+  "main": "index.js",
+  "repository": "https://github.com/dsblv/render-props-opener",
+  "author": "Dmitrii Sobolev",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1"
+  },
+  "peerDependencies": {
+    "react": ">= 0.14.0"
+  }
+}
